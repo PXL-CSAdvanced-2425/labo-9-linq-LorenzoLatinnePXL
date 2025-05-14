@@ -1,0 +1,15 @@
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\bin\Debug\net8.0\LaboLINQ.exe
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\bin\Debug\net8.0\LaboLINQ.deps.json
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\bin\Debug\net8.0\LaboLINQ.runtimeconfig.json
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\bin\Debug\net8.0\LaboLINQ.dll
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\bin\Debug\net8.0\LaboLINQ.pdb
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.AssemblyInfoInputs.cache
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.AssemblyInfo.cs
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.csproj.CoreCompileInputs.cache
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.sourcelink.json
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.dll
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\refint\LaboLINQ.dll
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.pdb
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\LaboLINQ.genruntimeconfig.cache
+C:\Users\11701160\source\repos\GitHub_Classroom\CSharp_Advanced\H9_LINQ\labo-9-linq-LorenzoLatinnePXL\LaboLINQ\LaboLINQ\obj\Debug\net8.0\ref\LaboLINQ.dll
